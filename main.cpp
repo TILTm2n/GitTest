@@ -12,5 +12,8 @@ int main(int argc, char *argv[])
 
     cout << "first point" << endl;
 
+    cout << "second point" << endl;
+
+
     return a.exec();
 }
