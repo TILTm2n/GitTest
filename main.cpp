@@ -13,6 +13,7 @@ int main(int argc, char *argv[])
     cout << "first point" << endl;
 
     cout << "first point in new brunch" << endl;
+    cout << "second point in new brunch" << endl;
 
     return a.exec();
 }
