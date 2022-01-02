@@ -10,5 +10,7 @@ int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
+    cout << "first point" << endl;
+
     return a.exec();
 }
